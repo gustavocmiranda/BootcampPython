@@ -1,2 +1,2 @@
 # BootcampPython
-Aulas do Bootcaamp de Python da Jornada de Dados
+Aulas do Bootcamp de Python da Jornada de Dados
